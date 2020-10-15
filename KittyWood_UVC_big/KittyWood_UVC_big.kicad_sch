@@ -356,6 +356,10 @@
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
 
+  (text "UVC  motion detect module" (at 208.915 172.72 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+  )
+
   (label "12V" (at 186.69 41.91 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
   )
