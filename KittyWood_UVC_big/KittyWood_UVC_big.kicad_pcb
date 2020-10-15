@@ -152,7 +152,7 @@
   )
 
   (module "Package_TO_SOT_THT:TO-92_Inline" (layer "F.Cu") (tedit 5A1DD157) (tstamp ab782cbf-ec4b-48e4-b441-908fc3c67ba3)
-    (at 114.4812 65.138)
+    (at 116.8908 78.6892)
     (descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
     (tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
     (property "Sheet file" "/home/rob/Documents/PlatformIO/Projects/KittyWood_UVC_big/KittyWood_UVC_big/KittyWood_UVC_big.kicad_sch")
